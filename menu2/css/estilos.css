@@ -1,0 +1,36 @@
+body {
+    background-color: #F15A2B;
+}
+
+.navbar {
+    margin-bottom: 10px;
+    background-color: white !important;
+}
+
+.nav-link{
+    color: #FF3D00;
+    font-family: 'Poltawski Nowy', serif;
+}
+
+h1{
+    color: white;
+}
+
+
+footer p {	
+	color: white;
+	font-size: 14px;
+	font-family: 'Heebo', sans-serif;
+}
+
+
+.tabla-menu {
+    --bs-table-bg: transparent
+}
+
+
+td.precio{
+
+    color: #ffffff;
+    font-weight: bold;
+}
